@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smooth System Progress Bars</string>
+
+    <string-array name="interpolators">
+        <item>Beschleunigen</item>
+        <item>Gerade</item>
+        <item>Beschleunigen & Verlangsamen</item>
+        <item>Verlangsamen</item>
+    </string-array>
+
+    <string name="saturation">Sättigung</string>
+    <string name="value">Wert</string>
+    <string name="opacity">Deckkraft</string>
+    <string name="preview">Vorschau</string>
+    <string name="restore">Wiederherstellen</string>
+    <string name="save">Speichern</string>
+    <string name="apply">Anwenden</string>
+    <string name="invalid_color">Ungültige Farbe</string>
+    
+    <string name="item_successfully_saved">Einstellungen erfolgreich gespeichert!</string>
+    <string name="scroll_down_hint">Scrolle die Liste runter, um mehr Farben hinzuzufügen</string>
+    <string name="reversed">Entgegengesetzt</string>
+    <string name="mirror_mode">Spiegelmodus</string>
+    <string name="speed">Geschwindigkeit: %s</string>
+    <string name="stroke_width">Balkenbreite: %ddp</string>
+    <string name="separator_length">Unterteilerlänge: %ddp</string>
+    <string name="sections_count">Anzahl an Abschnitten: %s</string>
+    <string name="interpolator">Interpolator:</string>
+    <string name="xposed_description">Ersetzt Ladebalken durch eine geschmeidigere Variante</string>
+    <string name="tap_to_add">Tippe, um eine Farbe hinzuzufügen</string>
+    <string name="hold_to_delete">Tippe und halte, um zu löschen</string>
+
+</resources>
